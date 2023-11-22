@@ -13,7 +13,7 @@ Oracle Data Platform 워크샵에서 OCI-GoldenGate(줄여서 OCI-GG)를 이용�
   
 - 따라서 이번 실습에서는 아래의 그림과 같이 총 3개의 OCI-GG Deployment를 생성하여 각각의 데이터 통합을 수행해 보도록 하겠습니다.
 
-<p align="center"><img src="https://github.com/oraclekr-data-platform/ODWS-S02-Data-Replication/assets/150218254/d116bbf0-269a-4861-b696-59f7da012dbf" width="250px" height="250px"></p>
+<p align="center"><img src="https://github.com/oraclekr-data-platform/ODWS-S02-Data-Replication/assets/d116bbf0-269a-4861-b696-59f7da012dbf.png" width="250px" height="250px"></p>
 
 
 
